@@ -1,0 +1,6 @@
+[wrap-file]
+directory = trompeloeil-38
+
+source_url = https://github.com/rollbear/trompeloeil/archive/v38.zip
+source_filename = trompeloeil-38.zip
+source_hash = 72c0f645e83a0449c5f733ab1b04f46ffd3ab027a5f72b00a604d1572bb8a103
